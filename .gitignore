@@ -1,3 +1,5 @@
 insioor-rf-design-env/*
 ./insioor-rf-design-env/*
 scenes/*
+.DS_Store
+*.zip
